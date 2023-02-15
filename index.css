@@ -1,0 +1,50 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #940a81;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Babylonica', cursive;
+    text-shadow: 2px 2px 2px rgb(231, 235, 2);
+}
+
+html {
+    text-align: center;
+    font-size: large 10px;
+    background-color: rgb(241, 231, 139);
+}
+
+body {
+    width: 800px;
+    padding: 10px 10px 2000px 40px;
+    border: 5px solid rgb(237, 191, 241);
+}
+
+img {
+    border-image-width: auto;
+    width: 300px;
+}
+
+.color {
+    color: blue;
+    font-size: 40px;
+}
+
+h2 {
+    color: #ff6600;
+    font-family: 'Roboto', sans-serif;
+}
+
+span {
+    font-size: 30px;
+    color: blue;
+}
+
+h3 {
+    color: #ff6600;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+}
